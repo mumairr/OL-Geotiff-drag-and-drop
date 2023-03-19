@@ -4,7 +4,7 @@
 
 Demo
 -------
-Live version is available: [http://15.207.49.137/new/test/]
+Live version is available: [Demo][http://15.207.49.137/new/test/]
 
 Motivation
 -------
